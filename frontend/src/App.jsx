@@ -1,5 +1,4 @@
 import React from 'react'
-import { Button } from './components/ui/button'
 import { BrowserRouter, Route, Routes } from "react-router-dom"
 import SignInForm from "./auth/forms/SignInForm"
 import SignUpForm from "./auth/forms/SignUpForm"
